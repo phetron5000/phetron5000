@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @phetron5000
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-phetron5000/phetron5000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m A Unreal Engine Developer and Robotics Builder
+- 🌱 I’m currently learning Controlling robots real time via VR
+- 📫 How to reach me Linkden @ https://www.linkedin.com/in/nathan-p-18901971/
